@@ -1,0 +1,56 @@
+
+Fonte: https://rockcontent.com/br/blog/o-que-e-github/
+
+Trabalhar em equipe é uma habilidade muito valorada hoje em dia no mercado de trabalho. Para os desenvolvedores de software ou de plataformas como WordPress, por exemplo, a tarefa se complica quando várias pessoas mexem, ao mesmo tempo, em um projeto. Por isso, a importância do GitHub.
+
+Afinal, corre-se o risco de perder informações, seja por um erro humano ou simplesmente ao sobrescrever num código. No entanto, esse é um problema que se solucionou 15 anos atrás, quando foi criado o Git, que deu origem ao GitHub. Mas o que é GitHub e como ele soluciona essa questão?
+
+Se quiser entender melhor esses termos, acompanhe este artigo. Nele você verá:
+
+    O que é Git?
+    O que é Hub?
+    O que é GitHub?
+    Qual é a importância do GitHub em uma empresa?
+    Como utilizar o GitHub?
+    Como usar o GitHub em WordPress?
+
+Tudo pronto para começar? Vamos lá!
+O que é Git?
+
+O Git é um software para gerar projetos onde vários desenvolvedores podem trabalhar ao mesmo tempo. Desenvolvido em 2005 por Linus Torvalds precisamente para a criação do Kernel do Linux, hoje ele é utilizado para elaborar qualquer site, software ou código de forma rápida e inteligente.
+
+Mas o recurso que faz essa ferramenta ser tão útil e prática é o sistema de controle de alterações. Isso quer dizer que cada vez que alguém muda o código é gerada uma nova versão para o projeto. Assim, não se corre o risco de perder nenhuma informação.
+
+No Git, também não há problema com códigos sobrescritos e perda de informações, já que as versões são salvas no repositório — diretório onde são armazenados todos os arquivos do seu projeto. É possível guardar esse repositório no seu computador ou, se você utilizar uma plataforma online como GitHub, também pode ser armazenado lá.
+
+Embora a maior vantagem do Git ser o trabalho em equipe em um mesmo código, muitos programadores utilizam-no para projetos individuais devido à quantidade de recursos que ele oferece.
+
+Agora que você já sabe o que é o Git, vamos ao próximo passo.
+O que é Hub?
+
+Hub é um aparelho utilizado na área de informática que permite a conexão de computadores a uma rede para compartilhar informação.
+
+O Hub, também conhecido como concentrador, foi um dos primeiros equipamentos utilizados para trocar informações entre computadores de uma rede local.
+
+Bom, agora que você já sabe o que é o Git e o que é o Hub ficará muito mais fácil de entender o que é o GitHub.
+O que é GitHub?
+
+O GitHub é uma rede social de desenvolvedores. A primeira parte do nome, “Git”, é por causa da utilização do sistema de controle de versão e a segunda parte, “Hub”, tem a ver com a conexão entre profissionais de programação de qualquer lugar do mundo.
+
+Inclusive, o GitHub é uma das maiores plataformas online de trabalho colaborativo do mundo. Aqui os usuários compartilham seus projetos, e pessoas de qualquer lugar do mundo podem trabalhar paralelamente neles.
+
+O trabalho predominante na plataforma são softwares em geral, porém o GitHub está se diversificando e atraindo também outras equipes que querem se beneficiar com o sistema de controle de versão.
+
+LEIA TAMBÉM
+Saiba o que é UI (User Interface) e a importância dele para os seus clientes
+ Saiba como resolver o problema no certificado de segurança do seu site
+ Crie um blog para o seu negócio usando o Stage
+Qual é a importância do GitHub em uma empresa?
+
+O GitHub é uma excelente ferramenta para o trabalho em equipe. Quando se trata de um software ou um site que precisa ser criado em conjunto, por exemplo, a plataforma online facilita, sem dúvidas, a gestão do projeto.
+
+E essa ferramenta também está disponível para empresas: é conhecida como GitHub Enterprise. Lá, você encontra uma forma inteligente de gerenciar o trabalho de uma equipe.
+
+Além disso, a segurança é levada muito a sério, algo fundamental quando se trata de projetos digitais. Porém, o que chama realmente a atenção é o fato de a equipe poder trabalhar ao mesmo tempo, de diversos lugares, não só da mesma cidade, mas também do mundo.
+
+Hoje em dia, para qualquer negócio, a automatização dos fluxos de trabalho é fundamental e o GitHub faz isso possível. Os recursos encontrados na plataforma auxiliam no desenvolvimento dos projetos, facilitando o crescimento da companhia como um todo.
